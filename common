@@ -15,3 +15,4 @@ ignore = Name .dropbox
 ignore = Name ._.DS_Store
 ignore = Name lost+found
 ignore = Name ._*
+ignore = Name recyle_bin
