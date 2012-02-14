@@ -1,2 +1,2 @@
 root = /media/storage/data
-root = ubuntu@ausbots.dyndns.org/data
+root = ssh://ubuntu@ausbots.dyndns.org/data

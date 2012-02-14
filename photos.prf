@@ -1,2 +1,2 @@
 root = /media/storage/data/Photos
-root = ubuntu@ausbots.dyndns.org/data/Photos
+root = ssh://ubuntu@ausbots.dyndns.org/data/Photos
