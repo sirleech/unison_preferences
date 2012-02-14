@@ -1,2 +1,4 @@
+include common
+
 root = /media/storage/data/Photos
 root = ssh://ubuntu@ausbots.dyndns.org/data/Photos

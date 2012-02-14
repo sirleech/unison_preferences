@@ -1,2 +1,4 @@
+include common
+
 root = /media/storage/data/Music
 root = ssh://ubuntu@ausbots.dyndns.org/data/Music
