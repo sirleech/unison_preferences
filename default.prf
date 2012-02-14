@@ -14,3 +14,4 @@ ignore = Name .DS_Store
 ignore = Name .dropbox
 ignore = Name ._.DS_Store
 ignore = Name lost+found
+ignore = Name ._*
