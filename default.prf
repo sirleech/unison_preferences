@@ -9,4 +9,5 @@ ignore = Name *~
 ignore = Name .*~
 ignore = Name *.tmp
 ignore = Name .DS_Store
+ignore = Name ._.DS_Store
 ignore = Name .dropbox
