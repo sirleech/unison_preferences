@@ -1,0 +1,17 @@
+# Unison preferences file
+
+auto = true
+batch = true
+fastcheck = true
+logfile = /home/chris/log/unison.log
+
+ignore = Name RESOURCE.FRK
+ignore = Name .thumbs
+ignore = Name *~
+ignore = Name .*~
+ignore = Name *.tmp
+ignore = Name .DS_Store
+ignore = Name .dropbox
+ignore = Name ._.DS_Store
+ignore = Name lost+found
+ignore = Name ._*
