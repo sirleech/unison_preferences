@@ -22,4 +22,4 @@ ignore = Name ._.DS_Store
 ignore = Name lost+found
 ignore = Name ._*
 ignore = Name recycle_bin
-
+ignore = Name git
