@@ -1,0 +1,4 @@
+include common
+
+root = /media/storage/data/Photos/Photos_2012
+root = ssh://ubuntu@ausbots.com.au/data/Photos/Photos_2012
