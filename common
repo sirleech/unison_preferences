@@ -1,7 +1,7 @@
 # Unison preferences file
 
 auto = true
-batch = true
+#batch = true
 fastcheck = true
 logfile = /home/chris/log/unison.log
 
@@ -23,3 +23,4 @@ ignore = Name lost+found
 ignore = Name ._*
 ignore = Name recycle_bin
 ignore = Name git
+ignore = Name piwigo
