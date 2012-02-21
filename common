@@ -1,7 +1,7 @@
 # Unison preferences file
 
 auto = true
-#batch = true
+batch = true
 fastcheck = true
 logfile = /home/chris/log/unison.log
 
