@@ -12,7 +12,6 @@ ignore = Name .thumbs
 ignore = Name thumbnail
 
 # random temp files, hidden junk
-ignore = Name RESOURCE.FRK
 ignore = Name *~
 ignore = Name .*~
 ignore = Name *.tmp
