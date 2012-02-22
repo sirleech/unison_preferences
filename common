@@ -23,3 +23,4 @@ ignore = Name ._*
 ignore = Name recycle_bin
 ignore = Name git
 ignore = Name piwigo
+ignore = Name .thumb
